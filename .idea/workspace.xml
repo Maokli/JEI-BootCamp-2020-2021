@@ -39,20 +39,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="react.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="28" />
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4544#4551#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="node.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flutter.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="flutter.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flutter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
-              <caret line="196" column="70" lean-forward="false" selection-start-line="196" selection-start-column="70" selection-end-line="196" selection-end-column="70" />
+            <state relative-caret-position="194">
+              <caret line="288" column="70" lean-forward="false" selection-start-line="288" selection-start-column="70" selection-end-line="288" selection-end-column="70" />
               <folding>
                 <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -86,6 +72,26 @@
                 <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#h4#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="react.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="123" column="42" lean-forward="false" selection-start-line="123" selection-start-column="42" selection-end-line="123" selection-end-column="42" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#h4#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#19300#19307#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,28 +118,29 @@
       <find>scroll</find>
       <find>#18bfef</find>
       <find>images</find>
-      <find>wrapper</find>
       <find>bg</find>
       <find>links li a</find>
       <find>assets</find>
       <find>image</find>
       <find>asset</find>
-      <find>react</find>
       <find>posts</find>
       <find>#main &gt; .posts</find>
+      <find>react</find>
+      <find>wrapper</find>
+      <find>alternative</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/react.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/node.html" />
         <option value="$PROJECT_DIR$/html.html" />
         <option value="$PROJECT_DIR$/index - Copie.html" />
         <option value="$PROJECT_DIR$/assets2/css/main.css" />
         <option value="$PROJECT_DIR$/flutter.html" />
+        <option value="$PROJECT_DIR$/react.html" />
       </list>
     </option>
   </component>
@@ -296,15 +303,15 @@
       <workItem from="1603925515930" duration="4120000" />
       <workItem from="1603962942024" duration="19479000" />
       <workItem from="1604042777301" duration="5996000" />
-      <workItem from="1604149922566" duration="23682000" />
+      <workItem from="1604149922566" duration="25754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53277000" />
+    <option name="totallyTimeSpent" value="55349000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24841438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -447,18 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4544#4551#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -512,8 +507,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flutter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="196" column="70" lean-forward="false" selection-start-line="196" selection-start-column="70" selection-end-line="196" selection-end-column="70" />
+        <state relative-caret-position="194">
+          <caret line="288" column="70" lean-forward="false" selection-start-line="288" selection-start-column="70" selection-end-line="288" selection-end-column="70" />
           <folding>
             <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -522,6 +517,24 @@
             <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#h4#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="123" column="42" lean-forward="false" selection-start-line="123" selection-start-column="42" selection-end-line="123" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h4#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#19300#19307#0" expanded="true" />
           </folding>
         </state>
       </provider>
