@@ -7,6 +7,24 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+@media (max-width: 850px) {
+	.pdf-files {
+		display: none;
+	}
+	.pdf-links {
+		display: block;
+	}
+}
+@media (min-width: 850px) {
+	.pdf-files {
+		display: block;
+	}
+	.pdf-links {
+		display: none;
+	}
+}
+
+
 /* The Modal (background) */
 .modal {
 	display: none; /* Hidden by default */
